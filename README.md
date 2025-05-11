@@ -1,6 +1,6 @@
-# Project Title
+# Task Management System
 
-A brief description of what your project does and who it's for.
+ Task Management System that demonstrates strong software development skills while meeting all the specified requirements. This will be an MVP version focusing on the core functionality needed for effective task management within a small team.
 
 ## Table of Contents
 
@@ -51,6 +51,6 @@ State the license under which your project is distributed, e.g., MIT License.
 
 ## Contact
 
-Your Name - [Your Email Address](mailto:youremail@example.com)
+K Pavan kumar - pavan.katari3420@gmail.com
 
-Project Link: [https://github.com/pavankatari16/your-repo-name](https://github.com/pavankatari16/your-repo-name)
+Project Link: [https://github.com/pavankatari16/Task-Management-System](https://github.com/pavankatari16/Task-Management-System)
